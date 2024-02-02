@@ -16,7 +16,7 @@ import logging
 from TSB_UAD.models.iforest import IForest
 from TSB_UAD.models.lof import LOF
 from TSB_UAD.models.pca import PCA
-from TSB_UAD.models.matrix_profile import MatrixProfile, MatrixProfile_original
+from TSB_UAD.models.matrix_profile import MatrixProfile
 from TSB_UAD.models.poly import POLY
 # from TSB_UAD.models.norma import NORMA
 from TSB_UAD.models.ocsvm import OCSVM
